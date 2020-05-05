@@ -61,7 +61,7 @@ public class TestApp {
 	}
 
 	/**
-	 * Increments the member i once, waits for 500 MS and increments again from
+	 * Increments the member i once, waits for 200 ms and increments again from
 	 * another method.
 	 */
 	private void incrementTwice() {
