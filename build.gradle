@@ -20,9 +20,6 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.6.2'
 }
 
-test {
-    useJUnitPlatform()
-}
 
 application {
 	mainClassName = 'com.test.lockapi.TestApp'
