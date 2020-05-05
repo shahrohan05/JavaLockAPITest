@@ -5,4 +5,4 @@ Article link - https://www.baeldung.com/java-concurrent-locks#differences-betwee
 
 Reentrant Lock Example - [TestApp.java](https://github.com/shahrohan05/JavaLockAPITest/blob/master/src/main/java/com/test/lockapi/TestApp.java)
 
-| Reentrant Read Write Lock Example - [SynchronizedHashMapWithReadWriteLock.java](https://github.com/shahrohan05/JavaLockAPITest/blob/master/src/main/java/com/test/lockapi/SynchronizedHashMapWithReadWriteLock.java)
+Reentrant Read Write Lock Example - [SynchronizedHashMapWithReadWriteLock.java](https://github.com/shahrohan05/JavaLockAPITest/blob/master/src/main/java/com/test/lockapi/SynchronizedHashMapWithReadWriteLock.java)
